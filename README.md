@@ -1,8 +1,7 @@
 # EdgeTimer (móvil)
 
 Aplicación móvil de reservación de citas para la barbería **Alpha Corte**.
-Proyecto Pedagógico Integrador – Tecnológico de Antioquia – Ingeniería en Software.
-Autora: María Fernanda Díaz Marín.
+Proyecto Pedagógico Integrador – Tecnológico de Antioquia
 
 Stack: React Native + TypeScript + Expo (SDK 57) + Expo Router + **Supabase** (Auth + PostgreSQL).
 Se prueba en el celular con **Expo Go** y en el navegador (React Native Web, dentro de un marco de teléfono).
